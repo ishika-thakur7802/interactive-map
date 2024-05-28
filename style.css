@@ -1,0 +1,22 @@
+.land
+ {
+ /* fill: #CCCCCC; */
+ fill-opacity: 1;
+ stroke:white;
+ stroke-opacity: 1;
+ stroke-width:0.5;
+ transform-origin: center center;
+ transform-box: fill-box;
+ transition:  1s;
+			}
+.scaled {
+ /* fill:dodgerblue; */
+ stroke:white;
+ stroke-width:2px;
+ 
+  -webkit-transform: scale(1.2);
+ transform: scale(1.2);
+ }
+body{
+    background-color: beige;
+}
